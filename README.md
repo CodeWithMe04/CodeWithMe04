@@ -1,6 +1,7 @@
 # 💫 About Me:
 🧑‍💻A AI Engineer, Hey I am Arin Chaudhary from India and my target is to bulid projects using MongoDB,Express,React and NodeJS.<br>🌲A nature Lover.<br>✅Success AI Developer.
-
+# 🚀 Working
+🧑‍💻 I am working with lenser-ai and zinc like tools.
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22569928/arin-chaudhary) 
@@ -14,5 +15,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
